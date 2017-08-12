@@ -46,24 +46,24 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity"/>
         </activity>
-        <!--<activity-->
-            <!--android:name=".SportsActivity"-->
-            <!--android:label="@string/category_sports"-->
-            <!--android:parentActivityName=".MainActivity">-->
-            <!--&lt;!&ndash; Parent activity meta-data to support 4.0 and lower &ndash;&gt;-->
-            <!--<meta-data-->
-                <!--android:name="android.support.PARENT_ACTIVITY"-->
-                <!--android:value=".MainActivity"/>-->
-        <!--</activity>-->
-        <!--<activity-->
-            <!--android:name=".PublicTransportationActivity"-->
-            <!--android:label="@string/category_public_transportation"-->
-            <!--android:parentActivityName=".MainActivity">-->
-            <!--&lt;!&ndash; Parent activity meta-data to support 4.0 and lower &ndash;&gt;-->
-            <!--<meta-data-->
-                <!--android:name="android.support.PARENT_ACTIVITY"-->
-                <!--android:value=".MainActivity"/>-->
-        <!--</activity>-->
+        <activity
+            android:name=".SportsActivity"
+            android:label="@string/category_sports"
+            android:parentActivityName=".MainActivity">
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
+        <activity
+            android:name=".PublicTransportationActivity"
+            android:label="@string/category_public_transportation"
+            android:parentActivityName=".MainActivity">
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
     </application>
 
 </manifest>

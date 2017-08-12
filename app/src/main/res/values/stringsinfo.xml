@@ -15,117 +15,117 @@
 -->
 <resources>
 
-    <!-- Vocabulary word for the color red [CHAR LIMIT=20] -->
+    <!-- Historical site info -->
     <string name="histortical_info_moma">The Museum of Modern Art</string>
 
-    <!-- Vocabulary word for the color dusty yellow [CHAR LIMIT=20] -->
+    <!-- Historical site info -->
     <string name="histortical_info_statue">The statue that welcomes all immigrants</string>
 
-    <!-- Vocabulary word for the color mustard yellow [CHAR LIMIT=20] -->
+    <!-- Historical site info -->
     <string name="histortical_info_marshall">The oldest chess club the United States</string>
 
-    <!-- Vocabulary word for the color green [CHAR LIMIT=20] -->
+    <!-- Historical site info -->
     <string name="histortical_info_empire">The iconic skyscraper</string>
 
-    <!-- Vocabulary word for the color brown [CHAR LIMIT=20] -->
+    <!-- Historical site info -->
     <string name="histortical_info_bridge">One of the most beautiful bridges</string>
 
-    <!-- Vocabulary word for the color black [CHAR LIMIT=20] -->
+    <!-- Historical site info -->
     <string name="histortical_info_south_street">A vibrant commercial area</string>
 
-    <!-- Vocabulary word for the color gray [CHAR LIMIT=20] -->
+    <!-- Historical site info -->
     <string name="histortical_info_central_park">The most famous park in the world</string>
 
-    <!-- Vocabulary word for the color white [CHAR LIMIT=20] -->
+    <!-- Historical site info -->
     <string name="historical_info_intrepid">A battleship converted into a museum</string>
 
-    <!-- Miwok translation for father -->
-    <string name="miwok_family_father">әpә</string>
+    <!-- Sports info -->
+    <string name="sports_info_yankees">MLB - The Bronx Bombers</string>
 
-    <!-- Miwok translation for mother -->
-    <string name="miwok_family_mother">әṭa</string>
+    <!-- Sports info -->
+    <string name="sports_info_mets">MLB - The Kings of Queens</string>
 
-    <!-- Miwok translation for son -->
-    <string name="miwok_family_son">angsi</string>
+    <!-- Sports info -->
+    <string name="sports_info_giants">NFL - The Blue </string>
 
-    <!-- Miwok translation for daughter -->
-    <string name="miwok_family_daughter">tune</string>
+    <!-- Sports info -->
+    <string name="sports_info_jets">NFL - Gang Green</string>
 
-    <!-- Miwok translation for older brother -->
-    <string name="miwok_family_older_brother">taachi</string>
+    <!-- Sports info -->
+    <string name="sports_info_rangers">NHL - An Original Six team</string>
 
-    <!-- Miwok translation for younger brother -->
-    <string name="miwok_family_younger_brother">chalitti</string>
+    <!-- Sports info -->
+    <string name="sports_info_islanders">NHL - 4-time-repeat Stanley Cup Champions</string>
 
-    <!-- Miwok translation for older sister -->
-    <string name="miwok_family_older_sister">teṭe</string>
+    <!-- Sports info -->
+    <string name="sports_info_knicks">NBA - original team playing in Madison Square Garden</string>
 
-    <!-- Miwok translation for younger sister -->
-    <string name="miwok_family_younger_sister">kolliti</string>
+    <!-- Sports info -->
+    <string name="sports_info_nets">NBA - Brooklyn\'s boys playing in the Barclays Center</string>
 
-    <!-- Miwok translation for grandmother -->
-    <string name="miwok_family_grandmother">ama</string>
+    <!-- Sports info -->
+    <string name="sports_info_nycfc">MLS - NYC\'s newest team playing in Yankee Stadium</string>
 
-    <!-- Miwok translation for grandfather -->
-    <string name="miwok_family_grandfather">paapa</string>
+    <!-- Sports info -->
+    <string name="sports_info_red_bulls">MLS - NYC\'s original soccer team</string>
 
-    <!-- Miwok translation for number one -->
-    <string name="miwok_number_one">lutti</string>
+    <!-- Restaurant info -->
+    <string name="restaurant_info_katz">Iconic Lower East Side deli</string>
 
-    <!-- Miwok translation for number two -->
-    <string name="miwok_number_two">otiiko</string>
+    <!-- Restaurant info -->
+    <string name="restaurant_info_joes">The #1-rated pizza of NYC located in West Village</string>
 
-    <!-- Miwok translation for number three -->
-    <string name="miwok_number_three">tolookosu</string>
+    <!-- Restaurant info -->
+    <string name="restaurant_info_rainbow_room">A classic Times Square continental restaurant</string>
 
-    <!-- Miwok translation for number four -->
-    <string name="miwok_number_four">oyyisa</string>
+    <!-- Restaurant info -->
+    <string name="restaurant_info_balthazar">A beautiful French bistro</string>
 
-    <!-- Miwok translation for number five -->
-    <string name="miwok_number_five">massokka</string>
+    <!-- Restaurant info -->
+    <string name="restaurant_info_ivan_ramen">Lower East Side ramen</string>
 
-    <!-- Miwok translation for number six -->
-    <string name="miwok_number_six">temmokka</string>
+    <!-- Restaurant info -->
+    <string name="restaurant_info_jewel_bako">East Village omakase sushi</string>
 
-    <!-- Miwok translation for number seven -->
-    <string name="miwok_number_seven">kenekaku</string>
+    <!-- Restaurant info -->
+    <string name="restaurant_info_patsys">Frank Sinatra\'s favorite Italian restaurant</string>
 
-    <!-- Miwok translation for number eight -->
-    <string name="miwok_number_eight">kawinta</string>
+    <!-- Restaurant info -->
+    <string name="restaurant_info_ferrara">Little Italy dessert shop</string>
 
-    <!-- Miwok translation for number nine -->
-    <string name="miwok_number_nine">wo\'e</string>
+    <!-- Restaurant info -->
+    <string name="restaurant_info_jeepney">East Village Filipino breakout restaurant</string>
 
-    <!-- Miwok translation for number ten -->
-    <string name="miwok_number_ten">na\'aacha</string>
+    <!-- Restaurant info -->
+    <string name="restaurant_info_smac">Mac and cheese and multiple variations!</string>
 
-    <!-- Miwok translation for phrase "Where are you going?" -->
-    <string name="miwok_phrase_where_are_you_going">minto wuksus</string>
+    <!-- Public Transportation info -->
+    <string name="public_transportation_info_subway">MTA subways connect all five boroughs</string>
 
-    <!-- Miwok translation for phrase "What is your name?" -->
-    <string name="miwok_phrase_what_is_your_name">tinnә oyaase\'nә</string>
+    <!-- Public Transportation info -->
+    <string name="public_transportation_info_bus">MTA busses transport above ground passengers</string>
 
-    <!-- Miwok translation for phrase "My name is..." -->
-    <string name="miwok_phrase_my_name_is">oyaaset...</string>
+    <!-- Public Transportation info -->
+    <string name="public_transportation_info_lirr">Take the train out to Long Island!</string>
 
-    <!-- Miwok translation for phrase "How are you feeling?" -->
-    <string name="miwok_phrase_how_are_you_feeling">michәksәs?</string>
+    <!-- Public Transportation info -->
+    <string name="public_transportation_info_amtrak">Take the train system to other eastern cities!</string>
 
-    <!-- Miwok translation for phrase "I'm feeling good." -->
-    <string name="miwok_phrase_im_feeling_good">kuchi achit</string>
+    <!-- Public Transportation info -->
+    <string name="public_transportation_info_nj_transit">Take the train to New Jersey!</string>
 
-    <!-- Miwok translation for phrase "Are you coming?" -->
-    <string name="miwok_phrase_are_you_coming">әәnәs\'aa?</string>
+    <!-- Public Transportation info -->
+    <string name="public_transportation_info_taxi">Ride in an iconic yellow cab!</string>
 
-    <!-- Miwok translation for phrase "Yes, I'm coming." -->
-    <string name="miwok_phrase_yes_im_coming">hәә\' әәnәm</string>
+    <!-- Public Transportation info -->
+    <string name="public_transportation_info_ferry">An unconventional way to arrive at otherwise hard to reach coastal areas.</string>
 
-    <!-- Miwok translation for phrase "I'm coming." -->
-    <string name="miwok_phrase_im_coming">әәnәm</string>
+    <!-- Public Transportation info -->
+    <string name="public_transportation_info_jfk">NYC\'s international airport</string>
 
-    <!-- Miwok translation for phrase "Let's go." -->
-    <string name="miwok_phrase_lets_go">yoowutis</string>
+    <!-- Public Transportation info -->
+    <string name="public_transportation_info_laguardia">NYC\'s secondary domestic airport</string>
 
-    <!-- Miwok translation for phrase "Come here." -->
-    <string name="miwok_phrase_come_here">әnni\'nem</string>
+    <!-- Public Transportation info -->
+    <string name="public_transportation_info_horse">Ride in a traditional carriage through the parks of NYC!</string>
 </resources>
