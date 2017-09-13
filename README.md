@@ -1,6 +1,5 @@
 # TourGuideApp
 
-Udacity's Android Developer Nanodegree program exercise #8
 
 ## Purpose
 
